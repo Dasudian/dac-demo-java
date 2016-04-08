@@ -1,0 +1,4 @@
+cd com/dsd/
+CLASSPATH=/home/sea/SDK/JAVA/dasudian_cloud-1.0.0/java/dasudian.jar:${CLASSPATH} javac Memctest.java Main.java
+cd ../../
+jar cvfm Memjtest.jar manifest.txt com

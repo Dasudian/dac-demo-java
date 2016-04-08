@@ -1,0 +1,4 @@
+cd com/test/
+CLASSPATH=/home/sea/SDK/java/dasudian_cloud-1.0.0/java/dasudian.jar:${CLASSPATH} javac Dsdbsearch.java Main.java
+cd ../../
+jar cvfm dbs.jar manifest.txt com

@@ -1,0 +1,1 @@
+curl -X POST -d '["c07f001c-8875-11e5-8360-dc7500000499"]' http://localhost:8080/cloudi/api/rpc/services_remove.erl

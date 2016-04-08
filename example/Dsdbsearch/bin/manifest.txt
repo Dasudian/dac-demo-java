@@ -1,0 +1,2 @@
+Main-Class: com.test.Main
+Class-Path: /usr/local/lib/dac-1.0.0/api/java/dasudian.jar
